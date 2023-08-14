@@ -16,14 +16,14 @@ export default function Navbar() {
     ]
 
     return (
-        <nav className="bg-transparent w-full border-b md:border-0 md:static py-5">
+        <nav className="bg-transparent w-full  md:border-0 md:static py-5">
             <div className="items-center px-4 max-w-screen-xl mx-auto md:flex md:px-8">
                 <div className="flex items-center justify-between py-3 md:py-5 md:block">
                     <a href="javascript:void(0)">
 
                     </a>
                     <div className="md:hidden">
-                        <button className="text-dimText outline-none p-2 rounded-md focus:border-gray-400 focus:border"
+                        <button className="text-dimText  outline-none p-2 rounded-md focus:border"
                             onClick={() => setState(!state)}
                         >
                             {

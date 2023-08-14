@@ -10,7 +10,7 @@ import Footer from './Footer'
 export default function Home() {
   return (
     <div className='max-w-screen-xl mx-auto'>
-      {/* <Navbar /> */}
+      <Navbar />
       <Hero />
       <About />
       <Author />
