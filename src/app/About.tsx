@@ -17,9 +17,9 @@ const About = () => {
 
                     <p className="text-sm lg:text-lg font-semibold text-gray-300 mt-2  mb-8 w-full ">
                         
-                    Each day, you'll engage in activities that nurture your relationship's growth, foster vulnerability, and foster a deeper connection. By the end of these 30 days, you'll have the tools to embrace a brighter future together.
+                    Each day, you`&apos;`ll engage in activities that nurture your relationship`&apos;`s growth, foster vulnerability, and foster a deeper connection. By the end of these 30 days, you`&apos;`ll have the tools to embrace a brighter future together.
 
-Don't let time, routine, or misunderstandings dim the love you share. Take the first step towards rekindling the love that brought you together in the first place. Start your 30-day journey today.</p>
+Don`&apos;`t let time, routine, or misunderstandings dim the love you share. Take the first step towards rekindling the love that brought you together in the first place. Start your 30-day journey today.</p>
 
                     <p className='h-[2px] bg-primary w-full capitalize '>
 
