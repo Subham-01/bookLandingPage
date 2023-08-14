@@ -55,11 +55,7 @@ export default function Navbar() {
                         }
                     </ul>
                 </div>
-                <div className="hidden md:inline-block">
-                    <a href="javascript:void(0)" className="py-3 px-4 text-white bg-primary hover:bg-primary rounded-md shadow">
-                        Get Started
-                    </a>
-                </div>
+
             </div>
         </nav>
     )
