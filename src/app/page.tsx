@@ -9,7 +9,7 @@ import Footer from './Footer'
 
 export default function Home() {
   return (
-    <>
+    <div className='max-w-screen-xl mx-auto'>
       {/* <Navbar /> */}
       <Hero />
       <About />
@@ -18,6 +18,6 @@ export default function Home() {
       <Review />
       <Footer />
 
-    </>
+    </div>
   )
 }

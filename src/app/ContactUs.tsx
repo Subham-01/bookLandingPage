@@ -98,7 +98,7 @@ export default function ContactUs() {
                         </form>
 
                     </div>
-                    <div className=" space-y-3 bg-primary h-full p-5 lg:p-16">
+                    <div className=" space-y-3 bg-primary h-full p-5 mt-10 lg:mt-0 lg:p-16">
 
                         <h1 className="title-font sm:text-6xl mt-6 text-3xl  font-medium text-white mb-12">
                             CONTACT US
